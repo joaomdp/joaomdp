@@ -4,7 +4,7 @@
   <p align="center">
     Olá, sou João Manoel, estudante de Análise e Desenvolvimento de Sistemas, atualmente no sexto período na Ulbra Torres-RS. Tenho paixão por tecnologia e desenvolvimento de software, e estou constantemente em busca de aprimorar minhas habilidades em programação e resolver problemas através da criação de soluções inovadoras. No GitHub, compartilho alguns dos meus projetos e contribuições para a comunidade de código aberto, sempre buscando aprender e colaborar com outros desenvolvedores.
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block; text-align: center; width: 100%;"><br>
 
   <img align="center" alt="jao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,7 +13,7 @@
   <img align="center" alt="jao-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
              
 </div>
-  
+
   ##
   
 <div> 
