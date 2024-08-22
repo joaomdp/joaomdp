@@ -32,7 +32,11 @@
 
 ###
 
-<p align="left">Estudando no momento...<br><br>-🔒Ulbra - Banco de Dados MySQL<br>-🎨 Ulbra - UI/ UX  Figma<br>-💻 Ulbra - Desenvolvimento Web React<br>-📲 Udemy - Desenvolvimento Android Completo - Kotlin & Java</p>
+<h4 align="left">Estudando no momento...</h4>
+
+###
+
+<p align="left">-🔒Ulbra - Banco de Dados MySQL<br>-🎨 Ulbra - UI/ UX  Figma<br>-💻 Ulbra - Desenvolvimento Web React<br>-📲 Udemy - Desenvolvimento Android Completo - Kotlin & Java</p>
 
 ###
 
@@ -65,7 +69,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaomdp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=joaomdp&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
