@@ -5,14 +5,17 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joao-manoel-dias-pereira-4bb746294/" target="_blank">
+  <a href="www.linkedin.com/in/joaomanoeldev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/joaomdp/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://web.whatsapp.com/" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5551995906640&text=Ol%C3%A1!%0ACheguei%20at%C3%A9%20aqui%20atrav%C3%A9s%20do%20seu%20perfil%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA%20sobre..." target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:joaomdp.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
@@ -75,3 +78,4 @@
 <img src="https://raw.githubusercontent.com/joaomdp/joaomdp/output/snake.svg" alt="Snake animation" />
 
 ###
+
