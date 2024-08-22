@@ -22,8 +22,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=joaomdp.joaomdp&left_color=lightgray&right_color=fuchsia&left_text=Visitantes"  />
 </div>
 
-###
-
 <h1 align="center">Olá, Como vai você? 👋</h1>
 
 ###
