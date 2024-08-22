@@ -50,6 +50,7 @@
 
 <br clear="both">
 
+https://github.com/joaomdp/joaomdp/blob/output/github-contribution-grid-snake.svg
 ![snake gif](https://github.com/joaomdp/joaomdp/blob/output/github-contribution-grid-snake.svg)
 
 ###
