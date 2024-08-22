@@ -30,7 +30,7 @@
 
 <h3 align="left">Me chamo João Manoel, estudante de Análise e Desenvolvimento de Sistemas, atualmente no sexto período na Ulbra Torres-RS. Tenho paixão por tecnologia e desenvolvimento de software, e estou constantemente em busca de aprimorar minhas habilidades em programação e resolver problemas através da criação de soluções inovadoras. No GitHub, compartilho alguns dos meus projetos e contribuições para a comunidade de código aberto, sempre buscando aprender e colaborar com outros desenvolvedores. 👩‍💻</h3>
 
-###
+##
 
 <h3 align="left">Estudando no momento...</h3>
 
@@ -38,7 +38,7 @@
 
 <h4 align="left">-🔒Ulbra - Banco de Dados MySQL<br>-🎨 Ulbra - UI/ UX  Figma<br>-💻 Ulbra - Desenvolvimento Web React<br>-📲 Udemy - Desenvolvimento Android Completo - Kotlin & Java</h4>
 
-###
+##
 
 <h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
@@ -62,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-###
+##
 
 <h3 align="left">🔥   Meus Status :</h3>
 
