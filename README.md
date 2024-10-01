@@ -37,7 +37,7 @@
 
 ###
 
-<h4 align="left">-🔒Ulbra - Banco de Dados MySQL<br>-🎨 Ulbra - UI/ UX  Figma<br>-💻 Ulbra - Desenvolvimento Web React<br>-📲 Udemy - 
+<h4 align="left">-🔒 Ulbra - Banco de Dados MySQL<br>-🎨 Ulbra - UI/ UX  Figma<br>-💻 Ulbra - Desenvolvimento Web React<br>-📲 Udemy - 
 Desenvolvimento Android Completo - Crie 18 Apps <br> -👨🏽‍💻 Udemy - Formação React JS
 </h4>
 
