@@ -25,20 +25,25 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=joaomdp.joaomdp&left_color=lightgray&right_color=fuchsia&left_text=Visitantes"  />
 </div>
 
-<h1 align="center">Olá, Como vai você? 👋</h1>
+<h1 align="center">Opa, Como vai você? 👋</h1>
 
 ###
 
-<h3 align="left">Me chamo João Manoel, estudante de Análise e Desenvolvimento de Sistemas, atualmente no sexto período na Ulbra Torres-RS. Tenho paixão por tecnologia e desenvolvimento de software, e estou constantemente em busca de aprimorar minhas habilidades em programação e resolver problemas através da criação de soluções inovadoras. No GitHub, compartilho alguns dos meus projetos e contribuições para a comunidade de código aberto, sempre buscando aprender e colaborar com outros desenvolvedores. 👩‍💻</h3>
+<h3 align="left">Me chamo João Manoel e sou formado em Análise e Desenvolvimento de Sistemas.</h4>
+
+Tenho experiência em desenvolvimento utilizando React, criando aplicações modernas e responsivas. Atualmente estou direcionando meus estudos para Flutter, com o objetivo de me tornar um Desenvolvedor Full-stack Flutter.
+
+Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluções que gerem valor real para as pessoas. 👩‍💻</h3>
 
 ##
 
-<h3 align="left">Estudando no momento...</h3>
+<h3 align="left">
+
+🚀 Foco atual</h3>
 
 ###
 
-<h4 align="left">-🔒 Ulbra - Banco de Dados MySQL<br>-🎨 Ulbra - UI/ UX  Figma<br>-💻 Ulbra - Desenvolvimento Web React<br>-📲 Udemy - 
-Desenvolvimento Android Completo - Crie 18 Apps <br> -👨🏽‍💻 Udemy - Formação React JS
+<h4 align="left">-🔒 Desenvolvimento mobile com Flutter<br>-🎨 Evolução para full stack no ecossistema Flutter<br>-💻 Construção de projetos práticos para portfólio<br>-📲 Desenvolvimento Fantasy Game 
 </h4>
 
 ##
@@ -48,7 +53,7 @@ Desenvolvimento Android Completo - Crie 18 Apps <br> -👨🏽‍💻 Udemy - Fo
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img  height="40" alt="image" src="https://github.com/user-attachments/assets/5b96f5e7-ecc6-418c-b346-8e2a5af53732" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -57,10 +62,6 @@ Desenvolvimento Android Completo - Crie 18 Apps <br> -👨🏽‍💻 Udemy - Fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
